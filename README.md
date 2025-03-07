@@ -8,7 +8,7 @@
 # Flowing Fidelity to Detail for Efficient High-Resolution Video Generation
 
 
-[![project page](https://img.shields.io/badge/Project_page-More_visualizations-green)]()&#160;
+[![project page](https://img.shields.io/badge/Project_page-More_visualizations-green)](https://anonymous-researcher1.github.io/flashvideo-page/)&#160;
 
 </div>
 
